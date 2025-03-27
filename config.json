@@ -1,6 +1,6 @@
 {
     "admins": [
-        "",
+        "KUPAL",
         "",
         "",
         "",
@@ -10,5 +10,5 @@
     "Prefix": [
         "/"
     ],
-    "botName": "Bot Name here"
+    "botName": "Homer AI Bot"
 }
